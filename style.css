@@ -1,0 +1,69 @@
+.navbar{
+       
+    
+    background-color: rgb(71,150 ,229 );
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    padding:70px ;
+}
+h1{
+    font-size: 70px;
+    padding-bottom: 3%;
+}
+input{
+    width:95%;
+    height: 50px;
+    border-radius: 7px;
+    margin-top: 1%;
+    padding-left: 25px;
+    color:rgb(71,150 ,229 );
+    font-family: 'open sans',sans-serif;
+    font-size: 25px;
+    
+}
+p{
+    color: white;
+    font-size: 20px;
+    font-family: 'open sans',sans-serif;
+
+}
+button{
+    color: white;
+    background:rgb(71,150 ,229 ) ;
+    width: 90px;
+    height: 50px;
+    margin-top: 30px;
+    font-family:'open sans',sans-serif ;
+    border-radius: 5px;
+    border-color:solid, whitesmoke;
+    
+}
+.main p{
+    display: flex;
+    justify-content: center;
+    font-size: 40px;
+    margin-top: 6%;
+}
+
+
+
+  
+*{
+    margin: 0%;
+}
+
+
+hr{ 
+    width: 7%;
+    margin: 5% 45% 4% 47%;
+    
+}
+.mystyle{
+    display: flex;
+    justify-content: space-around;
+    width: 24%;
+}
+
+
+   
